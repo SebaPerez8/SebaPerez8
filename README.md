@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seba</h1>
-<h3 align="center">A passionate estudent developer from Córdoba, Argentina</h3>
+<h3 align="center">A passionate student developer from Córdoba, Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebaperez8&label=Profile%20views&color=0e75b6&style=flat" alt="sebaperez8" /> </p>
 
